@@ -6,7 +6,7 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 1488821076
+                "custom_model_data": 465596216
             },
             "model": "minecraft:item/scp_018"
         }
