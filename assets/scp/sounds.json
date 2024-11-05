@@ -1,7 +1,7 @@
 {
     "audio1": {
         "sounds": [
-            "scp:high_bounce_1"
+            "scp:entity.scp.018.bounce.low.1"
         ]
     }
 }
