@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "minecraft:item/scp_018"
+        "layer0": "scp:item/scp_018"
     }
 }
