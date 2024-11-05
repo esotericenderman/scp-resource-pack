@@ -6,12 +6,12 @@
             40,
             39
         ],
-        "overlays": {
-            "entries": {
-                "formats": [42, 41, 40, 39],
-                "directory": "assets"
-            }
-        },
         "description": "All the custom resources for the SCP Minecraft plugin."
+    },
+    "overlays": {
+        "entries": {
+            "formats": [42, 41, 40, 39],
+            "directory": "assets"
+        }
     }
 }
