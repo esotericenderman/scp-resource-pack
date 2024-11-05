@@ -3,5 +3,75 @@
         "sounds": [
             "scp:entity.scp.018.bounce.low.1"
         ]
+    },
+    "entity.scp.018.bounce.low.2": {
+        "sounds": [
+            "scp:entity.scp.018.bounce.low.2"
+        ]
+    },
+    "entity.scp.018.bounce.low.3": {
+        "sounds": [
+            "scp:entity.scp.018.bounce.low.3"
+        ]
+    },
+    "entity.scp.018.bounce.low.4": {
+        "sounds": [
+            "scp:entity.scp.018.bounce.low.4"
+        ]
+    },
+    "entity.scp.018.bounce.low.5": {
+        "sounds": [
+            "scp:entity.scp.018.bounce.low.5"
+        ]
+    },
+    "entity.scp.018.bounce.medium.1": {
+        "sounds": [
+            "scp:entity.scp.018.bounce.medium.1"
+        ]
+    },
+    "entity.scp.018.bounce.medium.2": {
+        "sounds": [
+            "scp:entity.scp.018.bounce.medium.2"
+        ]
+    },
+    "entity.scp.018.bounce.medium.3": {
+        "sounds": [
+            "scp:entity.scp.018.bounce.medium.3"
+        ]
+    },
+    "entity.scp.018.bounce.medium.4": {
+        "sounds": [
+            "scp:entity.scp.018.bounce.medium.4"
+        ]
+    },
+    "entity.scp.018.bounce.medium.5": {
+        "sounds": [
+            "scp:entity.scp.018.bounce.medium.5"
+        ]
+    },
+    "entity.scp.018.bounce.high.1": {
+        "sounds": [
+            "scp:entity.scp.018.bounce.high.1"
+        ]
+    },
+    "entity.scp.018.bounce.high.2": {
+        "sounds": [
+            "scp:entity.scp.018.bounce.high.2"
+        ]
+    },
+    "entity.scp.018.bounce.high.3": {
+        "sounds": [
+            "scp:entity.scp.018.bounce.high.3"
+        ]
+    },
+    "entity.scp.018.bounce.high.4": {
+        "sounds": [
+            "scp:entity.scp.018.bounce.high.4"
+        ]
+    },
+    "entity.scp.018.bounce.high.5": {
+        "sounds": [
+            "scp:entity.scp.018.bounce.high.5"
+        ]
     }
 }
