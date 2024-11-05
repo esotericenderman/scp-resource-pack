@@ -1,6 +1,7 @@
 {
     "pack": {
-        "pack_format": 17,
+        "pack_format": 34,
+        "supported_formats": [42],
         "description": "All the custom resources for the SCP Minecraft plugin."
     }
 }
