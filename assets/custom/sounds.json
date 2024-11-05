@@ -1,7 +1,7 @@
 {
-    "audio1": {
+    "custom": {
         "sounds": [
-            "custom:high_bounce_1.ogg"
+            "custom:high_bounce_1"
         ]
     }
 }
