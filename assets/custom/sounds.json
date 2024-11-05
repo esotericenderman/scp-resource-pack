@@ -1,7 +1,7 @@
 {
-    "audio1": {
+    "scp": {
         "sounds": [
-            "custom:high_bounce_1"
+            "scp:high_bounce_1.ogg"
         ]
     }
 }
