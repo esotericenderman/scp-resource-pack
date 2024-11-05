@@ -11,7 +11,7 @@
     "overlays": {
         "entries": {
             "formats": [42, 41, 40, 39],
-            "directory": "assets"
+            "directory": "."
         }
     }
 }
