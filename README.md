@@ -1,5 +1,7 @@
 # SCP Resource Pack
 
+[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+
 > The Minecraft resource pack for my [SCP Minecraft plugin](https://github.com/EsotericEnderman/scp-plugin).
 
 ## Credits
