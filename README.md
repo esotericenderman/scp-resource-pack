@@ -15,3 +15,7 @@ The following assets were used as starting points in creating the resource pack 
 
 - [SCP-018](https://hub.scpslgame.com/images/b/b3/SCP018Icon.png) by [Northwood Studios](https://store.steampowered.com/developer/NWStudios), licensed under [CC BY-SA](./LICENSE).
 - [SCP-268](https://hub.scpslgame.com/images/e/e8/UpdatedSCP268Icon.png) by [Northwood Studios](https://store.steampowered.com/developer/NWStudios), licensed under [CC BY-SA](./LICENSE).
+
+## Topics
+
+minecraft resource resourcepacks resourcepack resources scp pack minecraft-resourcepack scp-foundation rp resource-pack packs resource-packs scps minecraft-resource-pack minecraft-resourcepacks minecraft-scp minecraft-resource-packs
